@@ -1,2 +1,13 @@
-# ThinkGEO_TakeHome
-Created with CodeSandbox
+# Measure WKT
+
+Measures the distance between points and length of lines from WellKnownText
+
+## Dependencies
+
+- [Jest Test Suite](https://jestjs.io/)
+- [wkt](https://github.com/benrei/wkt)
+- [Bulma CSS](https://bulma.io/)
+
+## Resources
+
+- [View and Draw WKT](https://clydedacruz.github.io/openstreetmap-wkt-playground/)
